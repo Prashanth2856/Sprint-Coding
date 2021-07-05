@@ -1,0 +1,104 @@
+#container{
+    height: 720px;
+    width: 1000px;
+    margin: auto;
+    margin-top: 0px;
+    background-color: rgb(243, 243, 243);
+}
+.row1{
+    width: 26%;
+    height: 80px;
+    margin-top: 30px;
+    padding: 2px;
+    float: left;
+    margin-left:35px;
+    border-radius: 8px;
+}
+
+.first{
+    margin-left: 70px;
+}
+.image{
+    width: 40px;
+    height: 40px;
+    float: left;
+    padding: 20px;
+
+}
+.name{
+    color: white;
+}
+.head{
+    margin-bottom: 0px;
+}
+.one{
+    background-color: rgb(255, 189, 67);
+}
+.two{
+    background-color: rgb(49, 49, 204);
+}
+.three{
+    background-color: skyblue;
+}
+div span{
+    margin-left: 5px;
+    margin-top: 15px;
+}
+.second{
+    margin-top: 20px;
+    margin-left: 370px;
+    font-size: x-large;
+    padding-top: 120px;
+    color: rgb(0, 0, 83);
+}
+.grad{
+    float: left;
+    margin-top: 0px;
+    margin-left: 0px;
+    background-color: rgb(238, 238, 238);
+    padding:5px 10px;
+}
+#graduate{
+    border-radius: 2px;
+    margin-left: 280px;
+    width: 430px;
+    margin-top: 0px;
+    height: 25px;
+}
+.bold{
+    background-color: skyblue;
+    padding:5px 13px;
+}
+.image2{
+    width: 270px;
+    height: 180px;
+    float: left;
+    margin-left: 20px;
+}
+#third,
+#final {
+    margin-left: 55px;
+    margin-top: 0px;
+    float: left;
+}
+div + span{
+    color: black;
+}
+#box1,#box2,#box3{
+    margin-left: 20px;
+    float: left;
+    width: 230px;
+    background-color: rgb(238, 238, 238);
+    height: 190px;
+    padding:20px;
+}
+.apply{
+    border: 2px solid skyblue;
+    width: 100px;
+    color: skyblue;
+    border-radius: 2px;
+    padding:10px 20px;
+}
+.last{
+    float: left;
+}
